@@ -1,2 +1,2 @@
-# Hacker Rank
-The main objective of this repo has been made is for me to practice some coding in my free time.
+# Coding Practice
+The main objective of this repo is to practice coding
