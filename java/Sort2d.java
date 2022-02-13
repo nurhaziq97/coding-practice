@@ -4,7 +4,7 @@ import java.util.Comparator;
 /**
  * Java sort 2-d array consider that the array element have same length
  */
-public class P3 {
+public class Sort2d {
   public static void main(String[] args) {
     int[][] arr = {
       {1, 2, 3, 34,21,54,22,21,14}, 
@@ -14,7 +14,7 @@ public class P3 {
 
     // sort the 2-d array elements ascesnding order
     for(int i = 0; i < arr.length; i++) {
-      arr[i] = P3.sort1(arr[i]);
+      arr[i] = Sort2d.sort1(arr[i]);
     }
     System.out.println("Sort by elements");
     for(int[] array: arr) {

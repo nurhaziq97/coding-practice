@@ -3,7 +3,7 @@
  * Make a java function to remove duplicate elements
  */
 import java.util.Arrays;
-public class P4 {
+public class RemoveDuplicateArray {
   public static void main(String[] args) {
     int a[] = { 1, 1, 2, 2, 2 };
     a = removeDuplicates(a);
